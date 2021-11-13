@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Dec  2 18:57:41 2019
+# Process ID: 8196
+# Current directory: D:/Ñ§Ï°/SJTU/2019-2020  FALL/Âß¼­/Lab_Work/Lab_6/L7
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19988 D:\Ñ§Ï°\SJTU\2019-2020  FALL\Âß¼­\Lab_Work\Lab_6\L7\L7.xpr
+# Log file: D:/Ñ§Ï°/SJTU/2019-2020  FALL/Âß¼­/Lab_Work/Lab_6/L7/vivado.log
+# Journal file: D:/Ñ§Ï°/SJTU/2019-2020  FALL/Âß¼­/Lab_Work/Lab_6/L7\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Ñ§Ï°/SJTU/2019-2020  FALL/Âß¼­/Lab_Work/Lab_6/L7/L7.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/zwk/Desktop/L7' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Dec  2 20:20:32 2019...

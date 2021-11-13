@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Oct 22 09:07:25 2019
+# Process ID: 17240
+# Current directory: G:/lab4/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16996 G:\lab4\project_1\project_1.xpr
+# Log file: G:/lab4/project_1/vivado.log
+# Journal file: G:/lab4/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project G:/lab4/project_1/project_1.xpr
+ERROR: [Common 17-1294] Unable to create directory [G:/lab4/project_1/.Xil/Vivado-17240-??].
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Oct 22 09:08:29 2019...
